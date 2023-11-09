@@ -1,0 +1,12 @@
+#cpro{
+    color: rgb(0, 255, 170);
+    text-align:left;
+}
+.box{
+    border: 2px dotted red;
+    padding-left: 30px;
+    padding-top:50px;
+    margin-left:35%;
+    margin-top:5%;
+    margin-right:35%;
+}
